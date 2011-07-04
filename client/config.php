@@ -9,7 +9,7 @@
 /************************************************************/
 
 /*  Update Server  */
-$server = "http://chrismacbook.local/projects/UpdateMe/server/check.php"; /* Server to check if there is an update. Example: http://update.phireware.com/check.php */
+$server = "http://example.com/server/check.php"; /* Server to check if there is an update. Example: http://update.phireware.com/check.php */
 
 /*  Application Configuration  */
 $appname = "Test App"; /* This is the name of your app */
